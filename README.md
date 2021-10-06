@@ -1,4 +1,4 @@
-# CMU-MachineLearning-10601
+# CMU-MachineLearning
 This is the coding part for 10601, Spring 2021. 
 
 ## Table of Content
