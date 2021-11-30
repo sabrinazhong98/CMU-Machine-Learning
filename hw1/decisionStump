@@ -106,3 +106,5 @@ if __name__ == "__main__":
     with open(metrics,'w') as f:
         f.write('error(train): ' + str(error_train) + '\n')
         f.write('error(test): ' + str(error_test))
+
+# test
