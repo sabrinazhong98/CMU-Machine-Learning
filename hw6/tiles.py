@@ -1,4 +1,5 @@
 """
+hw 6
 Tile Coding Software version 3.0beta
 by Rich Sutton
 based on a program created by Steph Schaeffer and others
